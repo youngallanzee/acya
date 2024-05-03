@@ -1,0 +1,50 @@
+
+*{padding: 0%;margin: 0%;text-decoration: none;
+list-style:none;box-sizing: border-box;}
+body{font-family:'Trebuchet MS';}
+nav{background:#1068bbf3;height: 150
+    0px;width: 100%;}
+    p4{font-size: 42px;color:#f2f7f6;}
+    p5{font-size: 41px;color:#242c39}
+    p6{font-size: 25px;color:rgb(230, 133, 7);}
+label.logo{color: rgb(19, 20, 20);font-size: 40px;line-height: 70px;
+padding: 0% 100px;font-weight: bold;}
+nav ul{float:right;margin-right:auto;}
+nav ul li{display: inline-block;line-height: 80px;margin: 0 5px;}
+nav ul li a{color:#0b0b0b;font-size: 15px;
+text-transform: uppercase;border-radius: 3px;padding: 7px 13px;}
+a:hover{background:#094786;;transition: 5s;}
+button:hover{background:#094786;;transition: 5s;}
+label.about{color: rgb(9, 9, 9);font-size: 10px;line-height: 70px;}
+#review{background:#444747f3;height: 300
+    0px;width: 100%;}
+    #review ul{float:center;margin-right: 20px;}
+    #review ul li{display: inline-block;line-height: 80px;margin: 0 5px;text-align:center}
+    #review ul li a{color:#f2f7f6;font-size: 15px;
+      
+    }
+    div.uservideos{margin: 10px 20px 15px 20px;
+      padding-bottom: 10px;
+      border: 1px solid rgba(0,0,0,.12);
+      border-radius:20px;
+      padding-top: 40px;
+      padding-left: 5px;
+      box-sizing: border-box;
+      width:910px;background: #242c39;
+       box-shadow:0 0 12px 2px rgba(0,00,0,.5);}
+       div.desc {
+    padding: 25px;color:whitesmoke;
+    text-align: center;}
+    div.title {font-size: 14px;color:white;
+      padding: 25px;color: #ffa500;
+      text-align: center;}
+      .meicon{
+        justify-content: space-between;font-size: 30px;}
+        .meicon{font-size: 30px; justify-content: space-between;
+          color: whitesmoke;}
+    .others{padding-left: 60%;display:flex;color: whitesmoke;
+      justify-content: space-between;font-size: 30px;}
+    #download{padding-right: 15%;}
+    #save{padding-left: 13%;}
+    #shareit{padding-left: 30%;}
+    
